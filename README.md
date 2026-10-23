@@ -30,7 +30,7 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/rushikesh-dhole">
+  <a href="https://linkedin.com/in/rushikesh-dhole](https://www.linkedin.com/in/rushikesh-dhole-6a43a5223">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
   </a>
   <a href="https://instagram.com/_rushi_patil_._">
